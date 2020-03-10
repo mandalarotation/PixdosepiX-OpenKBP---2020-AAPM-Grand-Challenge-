@@ -3,6 +3,8 @@ The aim of the OpenKBP Challenge is to advance fair and consistent comparisons o
 
 # Citation
 
+https://arxiv.org/pdf/1611.07004.pdf
+
 @article{pix2pix2017,
   title={Image-to-Image Translation with Conditional Adversarial Networks},
   author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
