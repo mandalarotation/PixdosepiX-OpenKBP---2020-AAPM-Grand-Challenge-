@@ -14,3 +14,22 @@ pix2pix-arvix
   journal={CVPR},
   year={2017}
 }
+
+Participants 
+
+Andres Usuga Hoyos  (Student-Universidad Nacional of Colombia)
+Jean Carlo Jimenez Giraldo (Student-Universidad Nacional of Colombia)
+Carlos Sebastian Valderrama Prieto (Student-Universidad Nacional of Colombia)
+Harold David Eraso Eraso (Student-Universidad Nacional of Colombia)
+Juan David Rodriguez Arciniegas (Student-Universidad Nacional of Colombia)
+Kelly Diaz (Student-Universidad Nacional of Colombia)
+Jose Luis Marrugo Madrid (Student-Universidad Nacional of Colombia)
+Jose Dario Quinto Muñoz (Student-Universidad Nacional of Colombia)
+
+Collaborators
+
+Javier de Jesus Morales Aramburo (Teacher-Universidad Nacional of Colombia)
+Alicia Fernanda Henao Colorado (Student-Universidad Nacional of Colombia)
+
+
+
